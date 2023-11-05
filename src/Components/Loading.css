@@ -1,0 +1,11 @@
+/* Loading.css */
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.loading-spinner {
+  /* You can add additional styling for the loader if needed */
+}
